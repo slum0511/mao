@@ -501,6 +501,6 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ],
+  ],"spider":"https://hub.fastgit.xyz/sclodestar/OneClickRun/raw/master/MeowXB/XBiubiuLA3.jar",
   "spider": "https://slum0511.github.io/mao//files/BL0608.jar"
 }
