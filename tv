@@ -109,15 +109,6 @@
       "filterable": 0
     },
     {
-      "key": "csp_xpath_nbys",
-      "name": "泥巴(SP需翻墙)",
-      "type": 3,
-      "api": "csp_Nbys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Dy1990",
       "name": "1990电影(SP)",
       "type": 3,
