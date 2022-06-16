@@ -502,5 +502,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://slum0511.github.io/mao//files/BL0608.jar"
+  "spider": "https://slum0511.github.io/mao//
+  BL0608.jar"
 }
