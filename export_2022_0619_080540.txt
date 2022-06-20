@@ -139,7 +139,9 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
-    },
+    },{"key": "csp_相声小品","name": "相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+
     {
       "key": "csp_xpath_网络搜集库112",
       "name": "工人",
