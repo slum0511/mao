@@ -503,5 +503,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://raw.githubusercontent.com/slum0511/mao/main/custom_spider.jar"
+  "spider": "https://github.com/slum0511/mao/blob/main/custom_spider.jar"
 }
