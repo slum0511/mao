@@ -1,5 +1,5 @@
 {
-// spider
+// 
 "spider":"https://slum0511.github.io/mao/ts0903.jar",
 
 // 直播
